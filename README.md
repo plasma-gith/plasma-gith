@@ -103,7 +103,7 @@ Git, Docker, GitHub Actions, Vercel, Render, Cloudinary
 ## Find Me
 
 * GitHub: [https://github.com/plasma-gith](https://github.com/plasma-gith)
-* LinkedIn: [https://linkedin.com/in/md-iftekhar-zawad](https://linkedin.com/in/md-iftekhar-zawad
+* LinkedIn: [https://linkedin.com/in/md-iftekhar-zawad](https://linkedin.com/in/md-iftekhar-zawad)
 * Email: [md.iftekharzawad@gmail.com](mailto:md.iftekharzawad@gmail.com)
 
 ---
