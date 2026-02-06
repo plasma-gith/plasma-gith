@@ -32,13 +32,13 @@ Competitive programming taught me how to reason under pressure. Engineering taug
 
 Some results I’m proud of:
 
-* 🏆 **Champion** — Intra AUST Programming Contest 2025
 * **82nd** — BUET IUPC National 2026
 * **44th** — ICPC Dhaka Regional 2025
 * **17th** — BUBT IUCPC National 2025
 * **25th** — NWU CSE Fest 2025
 * **82nd** — CUET IUPC National 2025
 * **194th** — NCPC 2023
+* **Champion** — Intra AUST Programming Contest 2025
 
 ---
 
