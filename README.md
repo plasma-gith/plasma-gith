@@ -32,7 +32,7 @@ Competitive programming taught me how to reason under pressure. Engineering taug
 
 Some results I’m proud of:
 
-* **82nd** — BUET IUPC National 2026
+* **27th** — BUET IUPC National 2026
 * **44th** — ICPC Dhaka Regional 2025
 * **17th** — BUBT IUCPC National 2025
 * **25th** — NWU CSE Fest 2025
